@@ -25,3 +25,5 @@ O código-fonte inclui um conjunto fixo de perguntas, opções de resposta e res
 
 Este jogo de quiz foi desenvolvido para fins educativos como parte de uma avaliação universitária. Sinta-se à vontade para usar, modificar ou compartilhar o código de acordo com suas necessidades.
 
+Caso queria testar o jogo fique a vontade: https://onlinegdb.com/ONQ2R6Ur5
+
